@@ -52,9 +52,9 @@
 |:---:|
 |[<img src="https://github.com/Arya07.png" width="180">](https://github.com/Arya07)|
 
-|[<img src="https://github.com/Iaxama.png" width="180">](https://github.com/Iaxama)|
+|[<img src="https://github.com/vvasco.png" width="180">](https://github.com/vvasco)|
 |:---:|
-| **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)|
+| **Valeintina Vasco** [@vvasco](https://github.com/vvasco)|
 
 **Alexander Bernardino**
 
