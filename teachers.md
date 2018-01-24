@@ -48,8 +48,8 @@
 |:---:|
 | **Nicolò Genesio** [@Nicogene](https://github.com/Nicogene)|
 
-|:---:|
 | **Elisa Maiettini** [@Arya07](https://github.com/Arya07)|
+|:---:|
 |[<img src="https://github.com/Arya07.png" width="180">](https://github.com/Arya07)|
 
 |[<img src="https://github.com/Iaxama.png" width="180">](https://github.com/Iaxama)|
