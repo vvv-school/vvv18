@@ -1,4 +1,4 @@
-## VVV17 Resources
+## VVV18 Resources
 
 - 🏫 [**Official Website**](http://www.icub.org/school/2018) _info, program, speakers and more..._
 - 📚 [**Wiki**](https://github.com/vvv-school/vvv18/wiki) _instructions, assignments, material_
