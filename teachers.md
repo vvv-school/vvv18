@@ -4,6 +4,10 @@
 |:---:|
 | **Lorenzo Natale** [@lornat75](https://github.com/lornat75)|
 
+|[<img src="https://github.com/ChiaraBartolozzi.png" width="180">](https://github.com/ChiaraBartolozzi)|
+|:---:|
+| **Chiara Bartolozzi** [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi)|
+
 |[<img src="https://github.com/pattacini.png" width="180">](https://github.com/pattacini)|
 |:---:|
 | **Ugo Pattacini** [@pattacini](https://github.com/pattacini)|
@@ -11,10 +15,6 @@
 |[<img src="https://github.com/vtikha.png" width="180">](https://github.com/vtikha)|
 |:---:|
 | **Vadim Tikhanoff** [@vtikha](https://github.com/vtikha)|
-
-|[<img src="https://github.com/ChiaraBartolozzi.png" width="180">](https://github.com/ChiaraBartolozzi)|
-|:---:|
-| **Chiara Bartolozzi** [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi)|
 
 |[<img src="https://github.com/DanielePucci.png" width="180">](https://github.com/DanielePucci)|
 |:---:|
