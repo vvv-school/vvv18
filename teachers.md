@@ -54,11 +54,15 @@
 
 |[<img src="https://github.com/vvasco.png" width="180">](https://github.com/vvasco)|
 |:---:|
-| **Valeintina Vasco** [@vvasco](https://github.com/vvasco)|
+| **Valentina Vasco** [@vvasco](https://github.com/vvasco)|
 
-**Alexander Bernardino**
+|[<img src="http://users.isr.ist.utl.pt/~alex/pmwiki/uploads/Main/alexphoto2006.png" width="180">](http://users.isr.ist.utl.pt/~alex/pmwiki/index.php)|
+|:---:|
+| [**Alexander Bernardino**](http://users.isr.ist.utl.pt/~alex/pmwiki/index.php)|
 
-**Fabio Anselmi**
+|[<img src="https://www.iit.it/files/peoplePhotos/742ad54200a31edaae92f96b9b7e6ff7_250.jpg" width="180">](https://www.iit.it/component/people/fabio-anselmi)|
+|:---:|
+| [**Fabio Anselmi**](https://www.iit.it/component/people/fabio-anselmi)|
 
 ### [Main Page](./README.md)
 
