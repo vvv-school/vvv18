@@ -58,7 +58,7 @@
 
 **Alexander Bernardino**
 
-**Lorenzo Rosasco**
+**Fabio Anselmi**
 
 ### [Main Page](./README.md)
 
