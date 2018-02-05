@@ -44,10 +44,6 @@
 |:---:|
 | [**Èric Pairet Artau**](./students-introduction/ericpairet.pdf) [@ericpairet](https://github.com/ericpairet)|
 
-|[<img src="https://github.com/caicaixia.png" width="180">](https://github.com/caicaixia)|
-|:---:|
-| [**Caixia Cai**](./students-introduction/caicaixia.pdf) [@caicaixia](https://github.com/caicaixia)|
-
 |[<img src="https://github.com/jtalamini.png" width="180">](https://github.com/jtalamini)|
 |:---:|
 | [**Jacopo Talamini**](./students-introduction/jtalamini.pdf) [@jtalamini](https://github.com/jtalamini)|
