@@ -2,6 +2,7 @@
 
 | students | scores |
 | :---: | :---: |
+| [**raedbsili1991**](https://github.com/raedbsili1991) | **75** |
 | [**atabakd**](https://github.com/atabakd) | **70** |
 | [**ericpairet**](https://github.com/ericpairet) | **70** |
 | [**fbottarel**](https://github.com/fbottarel) | **70** |
@@ -17,10 +18,9 @@
 | [**DonatiElisa**](https://github.com/DonatiElisa) | **60** |
 | [**PCH313**](https://github.com/PCH313) | **59** |
 | [**UgoVollhardt**](https://github.com/UgoVollhardt) | **59** |
+| [**ninja777**](https://github.com/ninja777) | **55** |
 | [**gonzalezJohnas**](https://github.com/gonzalezJohnas) | **50** |
-| [**ninja777**](https://github.com/ninja777) | **50** |
 | [**yidiem**](https://github.com/yidiem) | **50** |
-| [**raedbsili1991**](https://github.com/raedbsili1991) | **49** |
 | [**mkthabet**](https://github.com/mkthabet) | **48** |
 | [**AbbasSidaoui**](https://github.com/AbbasSidaoui) | **47** |
 | [**njm12**](https://github.com/njm12) | **46** |
