@@ -13,20 +13,20 @@
 | [**osm3000**](https://github.com/osm3000) | **68** |
 | [**fbottarel**](https://github.com/fbottarel) | **67** |
 | [**Rayne91**](https://github.com/Rayne91) | **65** |
+| [**science-code**](https://github.com/science-code) | **65** |
 | [**PCH313**](https://github.com/PCH313) | **58** |
 | [**UgoVollhardt**](https://github.com/UgoVollhardt) | **58** |
-| [**science-code**](https://github.com/science-code) | **55** |
+| [**DonatiElisa**](https://github.com/DonatiElisa) | **55** |
+| [**gonzalezJohnas**](https://github.com/gonzalezJohnas) | **49** |
 | [**ninja777**](https://github.com/ninja777) | **49** |
 | [**raedbsili1991**](https://github.com/raedbsili1991) | **49** |
 | [**yidiem**](https://github.com/yidiem) | **49** |
 | [**mkthabet**](https://github.com/mkthabet) | **47** |
 | [**AbbasSidaoui**](https://github.com/AbbasSidaoui) | **46** |
+| [**njm12**](https://github.com/njm12) | **45** |
 | [**anqingd**](https://github.com/anqingd) | **42** |
-| [**gonzalezJohnas**](https://github.com/gonzalezJohnas) | **42** |
 | [**jtalamini**](https://github.com/jtalamini) | **42** |
-| [**DonatiElisa**](https://github.com/DonatiElisa) | **35** |
-| [**njm12**](https://github.com/njm12) | **32** |
-| [**kosenhitatchi**](https://github.com/kosenhitatchi) | **26** |
+| [**kosenhitatchi**](https://github.com/kosenhitatchi) | **32** |
 | [**jasonsiver**](https://github.com/jasonsiver) | **25** |
 | [**nikmayr2**](https://github.com/nikmayr2) | **14** |
 
