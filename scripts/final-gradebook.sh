@@ -5,19 +5,19 @@
 # CopyPolicy: Released under the terms of the GNU GPL v3.0.
 
 script=$(realpath $0)
-abspathtoscript=$(dirname ${script})
+abspathtoscript=$(dirname "${script}")
 
 if [ -d build ]; then
   rm -Rf build
 fi
 mkdir build
 
-wget -O build/git.md          https://raw.githubusercontent.com/vvv17-git/vvv17-git.github.io/master/README.md
-wget -O build/yarp.md         https://raw.githubusercontent.com/vvv17-yarp/vvv17-yarp.github.io/master/README.md
-wget -O build/kinematics.md   https://raw.githubusercontent.com/vvv17-kinematics/vvv17-kinematics.github.io/master/README.md
-wget -O build/dynamics.md     https://raw.githubusercontent.com/vvv17-dynamics/vvv17-dynamics.github.io/master/README.md
-wget -O build/vision.md       https://raw.githubusercontent.com/vvv17-vision/vvv17-vision.github.io/master/README.md
-wget -O build/event-vision.md https://raw.githubusercontent.com/vvv17-event-based-vision/vvv17-event-based-vision.github.io/master/README.md
+wget -O build/git.md          https://raw.githubusercontent.com/vvv18-git/vvv18-git.github.io/master/README.md
+wget -O build/yarp.md         https://raw.githubusercontent.com/vvv18-yarp/vvv18-yarp.github.io/master/README.md
+wget -O build/kinematics.md   https://raw.githubusercontent.com/vvv18-kinematics/vvv18-kinematics.github.io/master/README.md
+wget -O build/vision.md       https://raw.githubusercontent.com/vvv18-vision/vvv18-vision.github.io/master/README.md
+wget -O build/dynamics.md     https://raw.githubusercontent.com/vvv18-dynamics/vvv18-dynamics.github.io/master/README.md
+wget -O build/event-vision.md https://raw.githubusercontent.com/vvv18-event-based-vision/vvv18-event-based-vision.github.io/master/README.md
 
 file_list=$(ls ./build/*.md)
 for entry in $file_list; do  
@@ -41,7 +41,7 @@ done
 
 sort -k2,2nr -k1,1 build/unsorted_grades > build/sorted_grades
 
-output_file=${abspathtoscript}/../final-gradebook.md
+output_file="${abspathtoscript}"/../final-gradebook.md
 if [ -f ${output_file} ]; then
   rm ${output_file}
 fi
