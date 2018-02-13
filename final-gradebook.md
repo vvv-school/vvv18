@@ -4,8 +4,8 @@
 | :---: | :---: |
 | [**ericpairet**](https://github.com/ericpairet) | **89** |
 | [**marco-monforte**](https://github.com/marco-monforte) | **89** |
+| [**science-code**](https://github.com/science-code) | **89** |
 | [**umgnunes**](https://github.com/umgnunes) | **89** |
-| [**science-code**](https://github.com/science-code) | **85** |
 | [**atabakd**](https://github.com/atabakd) | **84** |
 | [**Meylina**](https://github.com/Meylina) | **84** |
 | [**ninja777**](https://github.com/ninja777) | **84** |
@@ -20,14 +20,14 @@
 | [**jtalamini**](https://github.com/jtalamini) | **73** |
 | [**UgoVollhardt**](https://github.com/UgoVollhardt) | **73** |
 | [**DonatiElisa**](https://github.com/DonatiElisa) | **72** |
-| [**PCH313**](https://github.com/PCH313) | **68** |
+| [**njm12**](https://github.com/njm12) | **69** |
+| [**PCH313**](https://github.com/PCH313) | **69** |
 | [**AbbasSidaoui**](https://github.com/AbbasSidaoui) | **66** |
-| [**njm12**](https://github.com/njm12) | **65** |
-| [**kosenhitatchi**](https://github.com/kosenhitatchi) | **61** |
+| [**kosenhitatchi**](https://github.com/kosenhitatchi) | **65** |
 | [**anqingd**](https://github.com/anqingd) | **58** |
 | [**mkthabet**](https://github.com/mkthabet) | **57** |
 | [**gonzalezJohnas**](https://github.com/gonzalezJohnas) | **54** |
-| [**nikmayr2**](https://github.com/nikmayr2) | **44** |
+| [**nikmayr2**](https://github.com/nikmayr2) | **48** |
 | [**jasonsiver**](https://github.com/jasonsiver) | **28** |
 
 ### [List of Gradebooks](./gradebook.md)
