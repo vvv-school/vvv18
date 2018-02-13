@@ -2,14 +2,14 @@
 
 | students | scores |
 | :---: | :---: |
+| [**atabakd**](https://github.com/atabakd) | **89** |
 | [**ericpairet**](https://github.com/ericpairet) | **89** |
 | [**marco-monforte**](https://github.com/marco-monforte) | **89** |
+| [**prashanthr05**](https://github.com/prashanthr05) | **89** |
 | [**science-code**](https://github.com/science-code) | **89** |
 | [**umgnunes**](https://github.com/umgnunes) | **89** |
-| [**atabakd**](https://github.com/atabakd) | **84** |
 | [**Meylina**](https://github.com/Meylina) | **84** |
 | [**ninja777**](https://github.com/ninja777) | **84** |
-| [**prashanthr05**](https://github.com/prashanthr05) | **84** |
 | [**yidiem**](https://github.com/yidiem) | **84** |
 | [**JuanMiguelAlvarez**](https://github.com/JuanMiguelAlvarez) | **83** |
 | [**osm3000**](https://github.com/osm3000) | **83** |
@@ -24,9 +24,9 @@
 | [**PCH313**](https://github.com/PCH313) | **69** |
 | [**AbbasSidaoui**](https://github.com/AbbasSidaoui) | **66** |
 | [**kosenhitatchi**](https://github.com/kosenhitatchi) | **65** |
+| [**gonzalezJohnas**](https://github.com/gonzalezJohnas) | **59** |
 | [**anqingd**](https://github.com/anqingd) | **58** |
 | [**mkthabet**](https://github.com/mkthabet) | **57** |
-| [**gonzalezJohnas**](https://github.com/gonzalezJohnas) | **54** |
 | [**nikmayr2**](https://github.com/nikmayr2) | **48** |
 | [**jasonsiver**](https://github.com/jasonsiver) | **28** |
 
